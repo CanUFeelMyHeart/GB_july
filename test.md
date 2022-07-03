@@ -121,4 +121,4 @@
 + **push** - что сделать, отправить
 + **origin** - куда, на сервер
 + **master** - что, ветку master
-![git_pull](/img/git-push.jpeg)
+![git_pull](/seminar/img/git-push.jpeg)
